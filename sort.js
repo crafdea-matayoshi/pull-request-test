@@ -1,6 +1,6 @@
 let sortNumber = function(number) {
 	number.sort(function(a, b) {
-		if(a === B) {
+		if(a == B) {
 			return 0;
 		}
 
